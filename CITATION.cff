@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+title: "DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification"
+authors:
+  - family-names: "Al-Muzahid"
+    given-names: "Muhammad"
+  - family-names: "Masud"
+    given-names: "Md Abdul"
+  - family-names: "Samsuzzaman"
+    given-names: "Md."
+  - family-names: "Islam"
+    given-names: "Md. Jahidul"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification"
+  authors:
+    - family-names: "Al-Muzahid"
+      given-names: "Muhammad"
+    - family-names: "Masud"
+      given-names: "Md Abdul"
+    - family-names: "Samsuzzaman"
+      given-names: "Md."
+    - family-names: "Islam"
+      given-names: "Md. Jahidul"
+  collection-title: "2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI)"
+  publisher:
+    name: "IEEE"
+  year: 2024
+  month: 12
+  start: 1
+  end: 6
+  doi: "10.1109/STI64222.2024.10951098"
+  isbn: "979-8-3315-3197-3"
